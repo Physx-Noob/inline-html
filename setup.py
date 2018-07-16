@@ -4,7 +4,7 @@ import sys
 from setuptools import setup, find_packages
 
 NAME = "inline-html"
-VERSION = "0.1.2"
+VERSION = "1.0.0"
 
 REQUIRES = ['cssutils', 'click', 'lxml']
 
@@ -21,7 +21,6 @@ setup(
     url="https://github.com/zopyx/inline-html",
     keywords=["DocRaptor", "HTML", "CSS", "DATA-URI"],
     classifiers=[ # see https://pypi.python.org/pypi?%3Aaction=list_classifiers
-        "Development Status :: 4 - Beta",
         "Environment :: Web Environment",
         "Intended Audience :: Developers",
         "Intended Audience :: Information Technology",
