@@ -22,7 +22,7 @@ Usage
 License
 =======
 
-- GPL 2
+- GPL 2 (see LICENSE.txt)
 
 Repository
 ==========
